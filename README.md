@@ -7,16 +7,21 @@
 - Study: **Computer Science**
 - Hobby: **Listening Music**
 
+<br>
+
 Saya mahasiswa Teknik Informatika yang tertarik pada perkembangan teknologi terutama komputer.<br>
 Dan saya juga suka Firefly, I love you Firefly 🤍
 
 <img src="latest.png" width="300">
 
+<br>
 
 ## 🤍 Purpose
 - **Pengembangan Website** (keknya)
 - **Tool CLI untuk cek riwayat gacha Star Rail** (Masih gagal loh ya 😂)
-- **Belajar hidup tanpa bergantung pada harapan seseorang** (Dawg 💔)
+- **Belajar hidup tanpa bergantung pada seseorang** (Dawg 💔)
+
+<br>
 
 ## 🤍 Contact Me
 - 🌐 Webpage: [aben.my.id](https://aben.my.id)
