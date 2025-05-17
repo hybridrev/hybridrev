@@ -2,7 +2,7 @@
   <img src="Firefly-Banner.png">
 </p>
 
-## 👋 About Me
+## 🤍 About Me
 - Name: **Herlambang Natanegara / Aben**
 - Study: **Computer Science**
 - Hobby: **Listening Music**
@@ -14,13 +14,14 @@ Dan saya juga suka Firefly, I love you Firefly 🤍
 
 <br>
 
-## 🧠 Purpose
+## 🤍 Purpose
 - **Pengembangan Website** (keknya)
 - **Tool CLI untuk cek riwayat gacha Star Rail** (Masih gagal loh ya 😂)
 - **Belajar hidup tanpa bergantung pada harapan seseorang** (Dawg 💔)
 
 <br>
 
-## 📫 Contact Me
-- ✉️ Email: herlambang@aben.my.id
+## 🤍 Contact Me
 - 🌐 Webpage: [aben.my.id](https://aben.my.id)
+- ✉️ Email: herlambang@aben.my.id
+
