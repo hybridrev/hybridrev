@@ -10,9 +10,7 @@
 Saya mahasiswa Teknik Informatika yang tertarik pada perkembangan teknologi terutama komputer.<br>
 Dan saya juga suka Firefly, I love you Firefly 🤍
 
-![Firefly](latest.png)
-
-<br>
+<img src="latest.png" width="300">
 
 ## 🧠 Purpose
 - **Pengembangan Website** (keknya)
