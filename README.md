@@ -12,14 +12,11 @@ Dan saya juga suka Firefly, I love you Firefly 🤍
 
 <img src="latest.png" width="300">
 
-<br>
 
 ## 🤍 Purpose
 - **Pengembangan Website** (keknya)
 - **Tool CLI untuk cek riwayat gacha Star Rail** (Masih gagal loh ya 😂)
 - **Belajar hidup tanpa bergantung pada harapan seseorang** (Dawg 💔)
-
-<br>
 
 ## 🤍 Contact Me
 - 🌐 Webpage: [aben.my.id](https://aben.my.id)
