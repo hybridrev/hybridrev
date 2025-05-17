@@ -10,10 +10,16 @@
 Saya mahasiswa Teknik Informatika yang tertarik pada perkembangan teknologi terutama komputer.<br>
 Dan saya juga suka Firefly, I love you Firefly 🤍
 
+![Firefly](latest.png)
+
+<br>
+
 ## 🧠 Purpose
 - **Pengembangan Website** (keknya)
 - **Tool CLI untuk cek riwayat gacha Star Rail** (Masih gagal loh ya 😂)
 - **Belajar hidup tanpa bergantung pada harapan seseorang** (Dawg 💔)
+
+<br>
 
 ## 📫 Contact Me
 - ✉️ Email: herlambang@aben.my.id
