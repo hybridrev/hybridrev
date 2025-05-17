@@ -12,6 +12,8 @@ Dan saya juga suka Firefly, I love you Firefly 🤍
 
 <img src="latest.png" width="300">
 
+<br>
+
 ## 🧠 Purpose
 - **Pengembangan Website** (keknya)
 - **Tool CLI untuk cek riwayat gacha Star Rail** (Masih gagal loh ya 😂)
