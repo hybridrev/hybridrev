@@ -13,5 +13,3 @@ Saya mahasiswa Teknik Informatika yang tertarik pada perkembangan teknologi teru
 Dan saya juga suka Firefly, I love you Firefly 🤍
 
 <img src="latest.png" width="300">
-
-<br>
