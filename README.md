@@ -15,8 +15,3 @@ Dan saya juga suka Firefly, I love you Firefly 🤍
 <img src="latest.png" width="300">
 
 <br>
-
-## 🤍 Contact Me
-- 🌐 Webpage: [aben.my.id](https://aben.my.id)
-- ✉️ Email: herlambang@aben.my.id
-
