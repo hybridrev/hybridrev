@@ -3,6 +3,6 @@
 </p>
 
 ## 🤍 About Me
-- Name: **Herlambang Natanegara / Aben**
-- Study: **Computer Science**
-- Hobby: **Listening Music**
+- Name  : **Herlambang Natanegara / Aben**
+- Study : **Computer Science / Informatics**
+- Hobby : **Listening Music and PC Builder**
