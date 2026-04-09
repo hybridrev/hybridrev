@@ -4,5 +4,5 @@
 
 ## 🤍 About Me
 - Name  : **Herlambang Natanegara / Aben**
-- Study : **Computer Science / Informatics**
+- Study : **Computer Science**
 - Hobby : **Listening Music and PC Builder**
